@@ -1,4 +1,4 @@
 LEDCON
 ======
 
-LED Controller top level (assembly instructions, BOM, ECO etc. Envisioning this consisting of its PCB and SMCASE components)
+LED Controller top level (assembly instructions, BOM, ECO, Assembly Docs, and Packing info).
